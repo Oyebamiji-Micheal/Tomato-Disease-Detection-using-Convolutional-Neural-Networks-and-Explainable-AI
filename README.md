@@ -5,7 +5,6 @@
 [![Language](https://img.shields.io/badge/Python-darkblue.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![ML Tool](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Framework](https://img.shields.io/badge/sklearn-darkorange.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/index.html)
-![reposize](https://img.shields.io/github/repo-size/Oyebamiji-Micheal/Tomato-Disease-Detection-using-Convolutional-Neural-Networks-and-Explainable-AI)
 [![Topic](https://img.shields.io/badge/Deep%20Learning-lightblue.svg?style=flat)]()
 [![Model](https://img.shields.io/badge/VGG16-008080.svg?style=flat)](https://arxiv.org/abs/1409.1556)
 [![Model](https://img.shields.io/badge/AlexNet-9E7CC1.svg?style=flat)](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
